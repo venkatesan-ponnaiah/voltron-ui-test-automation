@@ -1,0 +1,25 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  align: center;
+}
+p {
+  color: red;
+}
+table {
+  border: 1px solid black;
+  width: 100%;
+}
+th, td {
+	border: 1px solid black;
+}
+<style>
+						.resultFail{
+						background-color:red;
+						}
+						.resultPass{
+						background-color:green;
+						}
+						</style>
